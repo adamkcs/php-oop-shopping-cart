@@ -1,2 +1,2 @@
 # php-oop-shopping-cart
-A shopping cart project PHP OOP practicing.
+A terminal shopping cart simulator project for PHP OOP practicing.

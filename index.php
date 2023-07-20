@@ -4,9 +4,9 @@ require_once "Product.php";
 require_once "Cart.php";
 require_once "CartItem.php";
 
-$product1 = new Product(1, "iPhone 11", 2500, 10);
-$product2 = new Product(2, "M2 SSD", 400, 10);
-$product3 = new Product(3, "Samsung Galaxy S20", 3200, 10);
+$product1 = new Product(1, "Vango 8 person Air Tent", 2500, 10);
+$product2 = new Product(2, "Inflatable sofa", 400, 10);
+$product3 = new Product(3, "Portable solar panel", 3200, 10);
 
 $cart = new Cart();
 
